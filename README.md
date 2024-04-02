@@ -12,3 +12,4 @@ Dekripsi: Program ini adalah sebuah program sederhana untuk menghitung Indeks Pr
 
 Program menggunakan perulangan while True untuk terus meminta input nilai dan kredit mata kuliah hingga pengguna memasukkan kata kunci 'selesai'. Setelah pengguna selesai memasukkan data mata kuliah, program akan menghitung IPK berdasarkan rumus
 
+![Blank diagram](https://github.com/HilmanBintang22/tugasalgoritma/assets/149690667/e7816da3-381d-483b-83d8-e1aff9d2649f)
